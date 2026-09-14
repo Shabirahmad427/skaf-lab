@@ -1,0 +1,40 @@
+# Skaf Lab color theme
+name = "Skaf Lab"
+
+[light]
+  # Primary
+  primary = "#1565C0"
+
+  # Menu
+  menu_primary = "#FFFFFF"
+  menu_text = "#37474F"
+  menu_text_active = "#00897B"
+  menu_title = "#0D2C54"
+
+  # Links
+  link = "#00796B"
+  link_hover = "#004D40"
+  link_decoration = "inherit"
+
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#F3F7FB"
+
+[dark]
+  # Primary
+  primary = "#82B1FF"
+
+  # Menu
+  menu_primary = "#0B1220"
+  menu_text = "#E3E8EF"
+  menu_text_active = "#4DD0E1"
+  menu_title = "#F5F7FA"
+
+  # Links
+  link = "#4DD0E1"
+  link_hover = "#80DEEA"
+  link_decoration = "inherit"
+
+  # Home sections
+  home_section_odd = "#0F172A"
+  home_section_even = "#131C2E"

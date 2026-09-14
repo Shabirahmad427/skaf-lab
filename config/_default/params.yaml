@@ -9,9 +9,9 @@ time_zone: America/Sao_Paulo
 
 # Appearance
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: native
+  theme_day: skaflab
+  theme_night: skaflab
+  font: skaflab
   font_size: L
 
 # SEO

@@ -1,3 +1,6 @@
+// Skaf Lab visual polish
+// -----------------------------------------------------------------------
+
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;
@@ -6,4 +9,135 @@
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
+}
+
+// --- Hero ---------------------------------------------------------------
+
+#section-hero .home-section-bg {
+  background-image: linear-gradient(135deg, #0d47a1 0%, #1565c0 55%, #00838f 100%) !important;
+}
+
+.hero-title {
+  letter-spacing: -0.01em;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.18);
+}
+
+.hero-lead {
+  line-height: 1.6;
+  opacity: 0.95;
+}
+
+.wg-hero .btn-light {
+  border-radius: 999px;
+  font-weight: 600;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.wg-hero .btn-light:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);
+}
+
+.wg-hero .hero-cta-alt {
+  transition: opacity 0.15s ease;
+}
+
+.wg-hero .hero-cta-alt:hover {
+  opacity: 0.8;
+}
+
+// --- Buttons --------------------------------------------------------------
+
+.btn {
+  border-radius: 999px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(21, 101, 192, 0.28);
+}
+
+// --- Cards (publications, projects, software) ------------------------------
+
+.card-simple {
+  border-radius: 14px;
+  padding: 1.25rem;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.view-card.card-simple {
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.06);
+  border: 1px solid rgba(15, 23, 42, 0.06);
+}
+
+.view-card.card-simple:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.12);
+}
+
+.img-hover-zoom {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.article-banner {
+  border-radius: 10px;
+  transition: transform 0.4s ease;
+}
+
+.img-hover-zoom:hover .article-banner {
+  transform: scale(1.06);
+}
+
+// --- People / author cards -------------------------------------------------
+
+.people-person {
+  padding: 1rem;
+  border-radius: 14px;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.people-person:hover {
+  background-color: rgba(21, 101, 192, 0.05);
+  transform: translateY(-2px);
+}
+
+.avatar-circle {
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.9), 0 6px 18px rgba(15, 23, 42, 0.15);
+  transition: box-shadow 0.2s ease;
+}
+
+.people-person:hover .avatar-circle {
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 1), 0 10px 24px rgba(21, 101, 192, 0.25);
+}
+
+// Initials placeholder avatar for members without an uploaded photo.
+.avatar-placeholder {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 270px;
+  height: 270px;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(135deg, #1565c0, #00897b);
+  color: #fff;
+  font-family: var(--nav-font, sans-serif);
+  font-weight: 700;
+  font-size: 3.5rem;
+  letter-spacing: 0.02em;
+}
+
+// --- Navbar -----------------------------------------------------------------
+
+#navbar-main {
+  box-shadow: 0 2px 12px rgba(15, 23, 42, 0.08);
+}
+
+// --- Publications (citation view) -------------------------------------------
+
+.article-metadata a {
+  transition: color 0.15s ease;
 }
