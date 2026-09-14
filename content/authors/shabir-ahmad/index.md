@@ -27,12 +27,12 @@ education:
     - course: PhD in Chemistry (2022 – present)
       institution: Unicamp, Brazil
       year: 2022
-    - course: MSc in Chemistry
-      institution: Federal University of Rio Grande do Sul (UFRGS), Brazil
-      year: 2022
-    - course: BSc in Chemistry
+    - course: MSc in Cell and Molecular Biology
       institution: Abdul Wali Khan University Mardan (AWKUM), Pakistan
-      year: 2019
+      year: ''
+    - course: BSc in Zoology
+      institution: Abdul Wali Khan University Mardan (AWKUM), Pakistan
+      year: ''
 
 social:
   - icon: envelope
