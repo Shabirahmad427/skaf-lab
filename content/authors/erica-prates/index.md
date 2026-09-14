@@ -1,4 +1,6 @@
 ---
+url: /people/erica-prates/
+date: 2024-01-01
 title: Érica Teixeira Prates
 first_name: Érica
 last_name: Prates

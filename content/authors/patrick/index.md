@@ -1,21 +1,23 @@
 ---
-title: Artur Hermano Sampaio Dias
+url: /people/patrick/
+date: 2024-01-01
+title: Luiz Patrick Cordeiro Josino
 
-first_name: Artur
-last_name: Dias
+first_name: Luiz Patrick
+last_name: Josino
 
 superuser: false
-role: Former PhD Student
+role: PhD Student
 
 organizations:
   - name: Institute of Chemistry, Unicamp
     url: 'https://www.iqm.unicamp.br'
 
-bio: PhD student working on computational chemistry at IQ Unicamp.
+bio: PhD student at IQ Unicamp working on computational chemistry.
 
 interests:
-  - Computational Chemistry
   - Molecular Dynamics Simulations
+  - Computational Chemistry
 
 education:
   courses:
@@ -31,7 +33,7 @@ social:
 highlight_name: false
 
 user_groups:
-  - Alumni
+  - PhD Students
 ---
 
-TODO - Add bio.
+Luiz Patrick is a PhD student in the Skaf Lab at the Institute of Chemistry, Unicamp, working on computational chemistry and molecular dynamics simulations.

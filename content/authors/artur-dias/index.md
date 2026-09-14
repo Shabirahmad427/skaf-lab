@@ -1,8 +1,10 @@
 ---
-title: Amadeus Cavalcanti Salvador de Alcântara
+url: /people/artur-dias/
+date: 2024-01-01
+title: Artur Hermano Sampaio Dias
 
-first_name: Amadeus
-last_name: Alcântara
+first_name: Artur
+last_name: Dias
 
 superuser: false
 role: Former PhD Student

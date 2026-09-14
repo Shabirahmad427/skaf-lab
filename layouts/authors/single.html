@@ -1,0 +1,71 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+    <div class="row">
+
+      <div class="col-12 col-lg-4 text-center mb-4">
+        {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+        {{ if $avatar }}
+          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+          <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="{{ $avatar_image.RelPermalink }}" alt="{{ .Title }}">
+        {{ else }}
+          {{ $initials := "" }}
+          {{ with .Params.first_name }}{{ $initials = substr . 0 1 }}{{ end }}
+          {{ with .Params.last_name }}{{ $initials = printf "%s%s" $initials (substr . 0 1) }}{{ end }}
+          {{ if eq $initials "" }}{{ $initials = substr .Title 0 1 }}{{ end }}
+          <span class="avatar avatar-circle avatar-placeholder" aria-hidden="true">{{ $initials | upper }}</span>
+        {{ end }}
+
+        {{ with .Params.role }}<h3 class="mt-3 mb-1">{{ . | markdownify | emojify }}</h3>{{ end }}
+        {{ range .Params.organizations }}
+          <div>{{ if .url }}<a href="{{ .url }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}</div>
+        {{ end }}
+        {{ partial "social_links" . }}
+      </div>
+
+      <div class="col-12 col-lg-8">
+        <div class="article-style">
+          {{ .Content }}
+        </div>
+
+        {{ with .Params.interests }}
+        <h4 class="mt-4">Interests</h4>
+        <ul>
+          {{ range . }}<li>{{ . }}</li>{{ end }}
+        </ul>
+        {{ end }}
+
+        {{ with .Params.education.courses }}
+        <h4 class="mt-4">Education</h4>
+        <ul class="list-unstyled">
+          {{ range . }}
+          <li class="mb-2">
+            <i class="fas fa-graduation-cap mr-2" aria-hidden="true"></i>{{ .course }}
+            {{ with .institution }}<br><span class="text-muted">{{ . }}</span>{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ $pubs := where site.RegularPages "Section" "publication" }}
+    {{ $mine := where $pubs "Params.authors" "intersect" (slice .Title) }}
+    {{ with $mine }}
+      {{ $mine = sort . "Date" "desc" }}
+      <h2 class="mt-5">Publications</h2>
+      {{ range $index, $item := $mine }}
+        {{ partial "functions/render_view" (dict "page" $ "item" $item "view" "citation" "index" $index) }}
+      {{ end }}
+    {{ end }}
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</article>
+
+{{- end -}}

@@ -1,4 +1,6 @@
 ---
+url: /people/melina-mottin/
+date: 2024-01-01
 title: Melina Mottin
 first_name: Melina
 last_name: Mottin

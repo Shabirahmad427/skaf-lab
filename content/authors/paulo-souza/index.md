@@ -1,4 +1,6 @@
 ---
+url: /people/paulo-souza/
+date: 2024-01-01
 title: Paulo César Telles de Souza
 first_name: Paulo César
 last_name: Souza

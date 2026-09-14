@@ -1,4 +1,6 @@
 ---
+url: /people/allan-ferrari/
+date: 2024-01-01
 title: Allan Jhonathan Ramos Ferrari
 first_name: Allan
 last_name: Ferrari

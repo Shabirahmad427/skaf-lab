@@ -1,4 +1,6 @@
 ---
+url: /people/matheus-oliveira/
+date: 2024-01-01
 title: Matheus V. Damasceno de Oliveira
 
 first_name: Matheus

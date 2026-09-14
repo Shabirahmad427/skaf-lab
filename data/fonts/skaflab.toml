@@ -1,9 +1,9 @@
-# Skaf Lab font pairing: a clean grotesk for UI/headings, a readable serif for body text
+# Skaf Lab font pairing: a classic serif for a plainer, institutional academic feel
 name = "Skaf Lab"
 
-google_fonts = "family=Source+Sans+3:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Roboto+Mono"
+google_fonts = "family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Sans+3:wght@400;500;600&family=Roboto+Mono"
 
-heading_font = "Source Sans 3"
+heading_font = "Source Serif 4"
 body_font = "Source Serif 4"
 nav_font = "Source Sans 3"
 mono_font = "Roboto Mono"

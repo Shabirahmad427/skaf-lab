@@ -1,40 +1,40 @@
-# Skaf Lab color theme
+# Skaf Lab color theme — warm, understated academic palette
 name = "Skaf Lab"
 
 [light]
   # Primary
-  primary = "#1565C0"
+  primary = "#7A2E2E"
 
   # Menu
   menu_primary = "#FFFFFF"
-  menu_text = "#37474F"
-  menu_text_active = "#00897B"
-  menu_title = "#0D2C54"
+  menu_text = "#3A3229"
+  menu_text_active = "#7A2E2E"
+  menu_title = "#2B241C"
 
   # Links
-  link = "#00796B"
-  link_hover = "#004D40"
-  link_decoration = "inherit"
+  link = "#7A2E2E"
+  link_hover = "#4E1D1D"
+  link_decoration = "underline"
 
   # Home sections
-  home_section_odd = "#FFFFFF"
-  home_section_even = "#F3F7FB"
+  home_section_odd = "#FEFCF8"
+  home_section_even = "#F5F0E6"
 
 [dark]
   # Primary
-  primary = "#82B1FF"
+  primary = "#D9A441"
 
   # Menu
-  menu_primary = "#0B1220"
-  menu_text = "#E3E8EF"
-  menu_text_active = "#4DD0E1"
-  menu_title = "#F5F7FA"
+  menu_primary = "#1B1712"
+  menu_text = "#E9E2D3"
+  menu_text_active = "#D9A441"
+  menu_title = "#F5F0E6"
 
   # Links
-  link = "#4DD0E1"
-  link_hover = "#80DEEA"
-  link_decoration = "inherit"
+  link = "#D9A441"
+  link_hover = "#EBC272"
+  link_decoration = "underline"
 
   # Home sections
-  home_section_odd = "#0F172A"
-  home_section_even = "#131C2E"
+  home_section_odd = "#17140F"
+  home_section_even = "#1D1913"

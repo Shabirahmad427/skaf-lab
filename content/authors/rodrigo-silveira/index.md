@@ -1,4 +1,6 @@
 ---
+url: /people/rodrigo-silveira/
+date: 2024-01-01
 title: Rodrigo Leandro Silveira
 
 first_name: Rodrigo

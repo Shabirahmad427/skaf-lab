@@ -1,21 +1,23 @@
 ---
-title: Luiz Patrick Cordeiro Josino
+url: /people/amadeus-alcantara/
+date: 2024-01-01
+title: Amadeus Cavalcanti Salvador de Alcântara
 
-first_name: Luiz Patrick
-last_name: Josino
+first_name: Amadeus
+last_name: Alcântara
 
 superuser: false
-role: PhD Student
+role: Former PhD Student
 
 organizations:
   - name: Institute of Chemistry, Unicamp
     url: 'https://www.iqm.unicamp.br'
 
-bio: PhD student at IQ Unicamp working on computational chemistry.
+bio: PhD student working on computational chemistry at IQ Unicamp.
 
 interests:
-  - Molecular Dynamics Simulations
   - Computational Chemistry
+  - Molecular Dynamics Simulations
 
 education:
   courses:
@@ -31,7 +33,7 @@ social:
 highlight_name: false
 
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
-Luiz Patrick is a PhD student in the Skaf Lab at the Institute of Chemistry, Unicamp, working on computational chemistry and molecular dynamics simulations.
+TODO - Add bio.

@@ -1,4 +1,6 @@
 ---
+url: /people/thiago-gomes/
+date: 2024-01-01
 title: Thiago Costa Ferreira Gomes
 first_name: Thiago
 last_name: Gomes

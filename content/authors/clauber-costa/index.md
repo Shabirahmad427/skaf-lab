@@ -1,4 +1,6 @@
 ---
+url: /people/clauber-costa/
+date: 2024-01-01
 title: Clauber Henrique Souza da Costa
 
 first_name: Clauber

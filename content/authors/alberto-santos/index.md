@@ -1,4 +1,6 @@
 ---
+url: /people/alberto-santos/
+date: 2024-01-01
 title: Alberto M. dos Santos
 
 first_name: Alberto

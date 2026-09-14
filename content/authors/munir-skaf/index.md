@@ -1,4 +1,6 @@
 ---
+url: /people/munir-skaf/
+date: 2024-01-01
 # Display name
 title: Munir S. Skaf
 

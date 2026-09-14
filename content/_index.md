@@ -19,7 +19,7 @@ sections:
         url: '#projects'
     design:
       background:
-        color: '#1565C0'
+        color: '#7A2E2E'
         text_color_light: true
 
   - block: markdown
@@ -36,6 +36,8 @@ sections:
         goal of connecting molecular structure to macroscopic properties and biological function.
 
         We are part of the [CEPID/FAPESP Center for Computing in Engineering and Sciences](https://bv.fapesp.br/en/pesquisador/2269/munir-salomao-skaf).
+
+        {{% affiliations %}}
     design:
       columns: '1'
 

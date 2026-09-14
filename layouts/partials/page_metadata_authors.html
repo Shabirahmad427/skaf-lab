@@ -1,0 +1,29 @@
+{{/* Display author list (Skaf Lab override: link to the stable /people/ profile page instead of the auto-generated taxonomy term page). */}}
+
+{{- $taxonomy := "authors" }}
+{{ if .Param $taxonomy }}
+  {{ $author_pages := where site.Pages "Section" "authors" }}
+  {{ range $index, $name := .Params.authors }}
+    {{- $match := "" -}}
+    {{- range $author_pages -}}
+      {{- if eq .Title $name }}{{ $match = . }}{{ end -}}
+    {{- end -}}
+
+    {{- $highlight_name := false -}}
+    {{- if $match }}{{ $highlight_name = $match.Params.highlight_name | default false }}{{ end -}}
+
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+      {{- if $match -}}
+        <a href="{{ $match.RelPermalink }}">{{ $name }}</a>
+      {{- else -}}
+        {{ $name }}
+      {{- end -}}
+    </span>
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

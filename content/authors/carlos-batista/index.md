@@ -1,4 +1,6 @@
 ---
+url: /people/carlos-batista/
+date: 2024-01-01
 title: Carlos Guilherme Tissi Batista
 first_name: Carlos
 last_name: Batista

@@ -1,4 +1,6 @@
 ---
+url: /people/shabir-ahmad/
+date: 2024-01-01
 title: Shabir Ahmad
 
 first_name: Shabir

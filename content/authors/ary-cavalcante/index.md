@@ -1,4 +1,6 @@
 ---
+url: /people/ary-cavalcante/
+date: 2024-01-01
 title: Ary de Oliveira Cavalcante
 first_name: Ary
 last_name: Cavalcante

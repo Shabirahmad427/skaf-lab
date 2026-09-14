@@ -1,4 +1,6 @@
 ---
+url: /people/carlos-souza/
+date: 2024-01-01
 title: Carlos Guilherme da Silva de Souza
 
 first_name: Carlos

@@ -1,4 +1,6 @@
 ---
+url: /people/clarisse-ricci/
+date: 2024-01-01
 title: Clarisse Gravina Ricci
 first_name: Clarisse
 last_name: Ricci
