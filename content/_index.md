@@ -10,7 +10,7 @@ sections:
       title: Skaf Lab
       text: |
         **Computational Biophysical Chemistry**  
-        Institute of Chemistry · University of Campinas (Unicamp) · Brazil
+        Institute of Chemistry · University of Campinas (UNICAMP) · Brazil
       cta:
         label: Meet the Team
         url: people
