@@ -1,7 +1,8 @@
 ---
 url: /people/melina-mottin/
 date: 2024-01-01
-title: Melina Mottin
+title: Dr. Melina Mottin
+cite_name: Melina Mottin
 first_name: Melina
 last_name: Mottin
 superuser: false

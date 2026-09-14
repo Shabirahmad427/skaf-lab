@@ -1,7 +1,8 @@
 ---
 url: /people/ander-pereira/
 date: 2024-01-01
-title: Ander Francisco Pereira
+title: Dr. Ander Francisco Pereira
+cite_name: Ander Francisco Pereira
 first_name: Ander
 last_name: Pereira
 superuser: false

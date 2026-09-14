@@ -1,7 +1,8 @@
 ---
 url: /people/rodrigo-silveira/
 date: 2024-01-01
-title: Rodrigo Leandro Silveira
+title: Dr. Rodrigo Leandro Silveira
+cite_name: Rodrigo Leandro Silveira
 
 first_name: Rodrigo
 last_name: Silveira

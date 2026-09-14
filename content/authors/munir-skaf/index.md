@@ -2,7 +2,8 @@
 url: /people/munir-skaf/
 date: 2024-01-01
 # Display name
-title: Munir S. Skaf
+title: Prof. Dr. Munir Salomão Skaf
+cite_name: Munir S. Skaf
 
 # Full name
 first_name: Munir

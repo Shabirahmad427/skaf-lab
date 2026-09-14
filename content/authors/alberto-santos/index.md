@@ -1,7 +1,8 @@
 ---
 url: /people/alberto-santos/
 date: 2024-01-01
-title: Alberto M. dos Santos
+title: Dr. Alberto M. dos Santos
+cite_name: Alberto M. dos Santos
 
 first_name: Alberto
 last_name: Santos

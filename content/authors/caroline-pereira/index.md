@@ -1,7 +1,8 @@
 ---
 url: /people/caroline-pereira/
 date: 2024-01-01
-title: Caroline Simões Pereira
+title: Dr. Caroline Simões Pereira
+cite_name: Caroline Simões Pereira
 
 first_name: Caroline
 last_name: Pereira

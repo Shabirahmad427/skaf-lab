@@ -1,7 +1,8 @@
 ---
 url: /people/tatiana-faro/
 date: 2024-01-01
-title: Tatiana Mello da Costa Faro
+title: Dr. Tatiana Mello da Costa Faro
+cite_name: Tatiana Mello da Costa Faro
 first_name: Tatiana
 last_name: Faro
 superuser: false

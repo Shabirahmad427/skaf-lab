@@ -1,7 +1,8 @@
 ---
 url: /people/ary-cavalcante/
 date: 2024-01-01
-title: Ary de Oliveira Cavalcante
+title: Dr. Ary de Oliveira Cavalcante
+cite_name: Ary de Oliveira Cavalcante
 first_name: Ary
 last_name: Cavalcante
 superuser: false

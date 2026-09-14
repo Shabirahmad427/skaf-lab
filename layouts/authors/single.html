@@ -54,7 +54,8 @@
     </div>
 
     {{ $pubs := where site.RegularPages "Section" "publication" }}
-    {{ $mine := where $pubs "Params.authors" "intersect" (slice .Title) }}
+    {{ $cite_name := .Params.cite_name | default .Title }}
+    {{ $mine := where $pubs "Params.authors" "intersect" (slice $cite_name) }}
     {{ with $mine }}
       {{ $mine = sort . "Date" "desc" }}
       <h2 class="mt-5">Publications</h2>

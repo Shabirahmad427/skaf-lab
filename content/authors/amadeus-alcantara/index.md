@@ -1,7 +1,8 @@
 ---
 url: /people/amadeus-alcantara/
 date: 2024-01-01
-title: Amadeus Cavalcanti Salvador de Alcântara
+title: Dr. Amadeus Cavalcanti Salvador de Alcântara
+cite_name: Amadeus Cavalcanti Salvador de Alcântara
 
 first_name: Amadeus
 last_name: Alcântara

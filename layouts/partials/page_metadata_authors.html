@@ -6,7 +6,8 @@
   {{ range $index, $name := .Params.authors }}
     {{- $match := "" -}}
     {{- range $author_pages -}}
-      {{- if eq .Title $name }}{{ $match = . }}{{ end -}}
+      {{- $key := .Params.cite_name | default .Title -}}
+      {{- if eq $key $name }}{{ $match = . }}{{ end -}}
     {{- end -}}
 
     {{- $highlight_name := false -}}

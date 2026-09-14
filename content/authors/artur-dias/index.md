@@ -1,7 +1,8 @@
 ---
 url: /people/artur-dias/
 date: 2024-01-01
-title: Artur Hermano Sampaio Dias
+title: Dr. Artur Hermano Sampaio Dias
+cite_name: Artur Hermano Sampaio Dias
 
 first_name: Artur
 last_name: Dias

@@ -1,7 +1,8 @@
 ---
 url: /people/paulo-souza/
 date: 2024-01-01
-title: Paulo César Telles de Souza
+title: Dr. Paulo César Telles de Souza
+cite_name: Paulo César Telles de Souza
 first_name: Paulo César
 last_name: Souza
 superuser: false
