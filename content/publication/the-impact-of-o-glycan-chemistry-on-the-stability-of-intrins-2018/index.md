@@ -10,7 +10,7 @@ authors:
 - MF Crowley
 - et al.
 date: "2018-01-01"
-doi: ""
+doi: "10.1039/c7sc05016j"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Chemical Science, 9(15), 3710-3715"

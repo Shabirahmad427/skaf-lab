@@ -9,7 +9,7 @@ authors:
 - M Sorieul
 - et al.
 date: "2021-01-01"
-doi: ""
+doi: "10.1021/acs.biomac.1c00937"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Biomacromolecules, 22(11), 4669-4680"

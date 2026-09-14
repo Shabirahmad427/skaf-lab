@@ -5,7 +5,7 @@ authors:
 - M Dolores Elola
 - Munir S. Skaf
 date: "2016-01-01"
-doi: ""
+doi: "10.1088/0953-8984/28/41/414018"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Physics: Condensed Matter, 28(41), 414018"

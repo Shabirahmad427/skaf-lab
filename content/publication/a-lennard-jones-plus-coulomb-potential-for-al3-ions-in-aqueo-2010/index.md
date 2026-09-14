@@ -5,7 +5,7 @@ authors:
 - GP Thim
 - Munir S. Skaf
 date: "2010-01-01"
-doi: ""
+doi: "10.1063/1.3364110"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 132(11)"

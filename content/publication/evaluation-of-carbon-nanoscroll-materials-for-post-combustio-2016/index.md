@@ -9,7 +9,7 @@ authors:
 - DS Galvao
 - TK Woo
 date: "2016-01-01"
-doi: ""
+doi: "10.1016/j.carbon.2016.01.072"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Carbon, 101, 218-225"

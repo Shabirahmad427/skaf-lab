@@ -7,7 +7,7 @@ authors:
 - Munir S. Skaf
 - A Kovalenko
 date: "2013-01-01"
-doi: ""
+doi: "10.1021/ja405634k"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of the American Chemical Society, 135(51), 19048-19051"

@@ -7,7 +7,7 @@ authors:
 - Munir S. Skaf
 - A Kovalenko
 date: "2015-01-01"
-doi: ""
+doi: "10.1021/jz502298q"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry Letters, 6(1), 206-211"

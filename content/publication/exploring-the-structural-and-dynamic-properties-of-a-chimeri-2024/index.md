@@ -7,7 +7,7 @@ authors:
 - R Goldbeck
 - Munir S. Skaf
 date: "2024-01-01"
-doi: ""
+doi: "10.3390/ijms252211961"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "International Journal of Molecular Sciences, 25(22), 11961"

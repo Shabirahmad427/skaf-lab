@@ -10,7 +10,7 @@ authors:
 - J Yu
 - et al.
 date: "2001-01-01"
-doi: ""
+doi: "10.1021/jp010392b"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 105(26), 6103-6107"

@@ -3,7 +3,7 @@ title: "Molecular dynamics study of dielectric properties of water-dimethyl sulf
 authors:
 - Munir S. Skaf
 date: "1999-01-01"
-doi: ""
+doi: "10.1021/jp992247s"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry A, 103(50), 10719-10729"

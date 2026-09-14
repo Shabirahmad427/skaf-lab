@@ -8,7 +8,7 @@ authors:
 - Munir S. Skaf
 - I Polikarpov
 date: "2005-01-01"
-doi: ""
+doi: "10.1529/biophysj.105.063818"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Biophysical Journal, 89(3), 2011-2023"

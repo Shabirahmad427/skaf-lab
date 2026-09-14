@@ -8,7 +8,7 @@ authors:
 - WH Velander
 - et al.
 date: "2020-01-01"
-doi: ""
+doi: "10.1038/s41598-020-76488-2"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Scientific Reports, 10(1), 19522"

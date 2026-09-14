@@ -3,7 +3,7 @@ title: "Static dielectric properties of a model for liquid DMSO"
 authors:
 - Munir S. Skaf
 date: "1997-01-01"
-doi: ""
+doi: "10.1080/00268979709482582"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Molecular Physics, 90(1), 25-34"

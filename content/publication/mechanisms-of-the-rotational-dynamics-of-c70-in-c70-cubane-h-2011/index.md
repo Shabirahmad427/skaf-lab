@@ -5,7 +5,7 @@ authors:
 - Munir S. Skaf
 - VR Coluci
 date: "2011-01-01"
-doi: ""
+doi: "10.1063/1.3671948"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 135(24)"

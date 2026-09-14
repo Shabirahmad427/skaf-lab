@@ -4,7 +4,7 @@ authors:
 - Munir S. Skaf
 - MT Sonoda
 date: "2005-01-01"
-doi: ""
+doi: "10.1103/physrevlett.94.137802"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Physical Review Letters, 94(13), 137802"

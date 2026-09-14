@@ -5,7 +5,7 @@ authors:
 - IA Borin
 - BM Ladanyi
 date: "1997-01-01"
-doi: ""
+doi: "10.1023/a:1008284601172"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Molecular Engineering, 7(3), 457-472"

@@ -3,7 +3,7 @@ title: "Nonlocal dielectric functions of molecular liquids from computer simulat
 authors:
 - Munir S. Skaf
 date: "2000-01-01"
-doi: ""
+doi: "10.1016/s0166-1280(99)00333-4"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Molecular Structure: THEOCHEM, 505(1-3), 45-53"

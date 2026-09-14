@@ -8,7 +8,7 @@ authors:
 - Munir S. Skaf
 - GT Beckham
 date: "2021-01-01"
-doi: ""
+doi: "10.1021/acs.jpcb.0c09725"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 125(8), 2018-2030"

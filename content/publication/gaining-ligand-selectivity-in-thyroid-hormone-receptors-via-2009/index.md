@@ -10,7 +10,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2009-01-01"
-doi: ""
+doi: "10.1016/s0084-3741(10)79526-3"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Proceedings of the National Academy of Sciences, 106(49), 20717-20722"

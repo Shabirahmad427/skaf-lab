@@ -3,7 +3,7 @@ title: "Molecular dynamics simulations of dielectric properties of dimethyl sulf
 authors:
 - Munir S. Skaf
 date: "1997-01-01"
-doi: ""
+doi: "10.1063/1.475062"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 107(19), 7996-8003"

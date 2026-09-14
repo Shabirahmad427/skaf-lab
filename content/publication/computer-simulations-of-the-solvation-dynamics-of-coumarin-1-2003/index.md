@@ -4,7 +4,7 @@ authors:
 - LR Martins
 - Munir S. Skaf
 date: "2003-01-01"
-doi: ""
+doi: "10.1016/s0009-2614(03)00159-3"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Chemical Physics Letters, 370(5-6), 683-689"

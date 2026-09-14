@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2024-01-01"
-doi: ""
+doi: "10.1021/acs.jafc.3c08019"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Agricultural and Food Chemistry, 72(8), 4225-4236"

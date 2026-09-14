@@ -6,7 +6,7 @@ authors:
 - Clarisse Gravina Ricci
 - Munir S. Skaf
 date: "2016-01-01"
-doi: ""
+doi: "10.3390/ijms18010015"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "International Journal of Molecular Sciences, 18(1), 15"

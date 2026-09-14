@@ -8,7 +8,7 @@ authors:
 - Munir S. Skaf
 - I Polikarpov
 date: "2017-01-01"
-doi: ""
+doi: "10.1038/s41598-017-03774-x"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Scientific Reports, 7(1), 3509"

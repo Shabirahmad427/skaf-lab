@@ -7,7 +7,7 @@ authors:
 - G Araujo
 - Munir S. Skaf
 date: "2023-01-01"
-doi: ""
+doi: "10.1021/acs.jcim.3c00405"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Chemical Information and Modeling, 63(11), 3557-3566"

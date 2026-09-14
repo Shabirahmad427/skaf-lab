@@ -7,7 +7,7 @@ authors:
 - Munir S. Skaf
 - I Polikarpov
 date: "2010-01-01"
-doi: ""
+doi: "10.1007/s00249-010-0610-2"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "European Biophysics Journal, 39(11), 1523-1536"

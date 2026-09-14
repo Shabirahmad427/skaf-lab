@@ -4,7 +4,7 @@ authors:
 - Rodrigo Leandro Silveira
 - Munir S. Skaf
 date: "2018-01-01"
-doi: ""
+doi: "10.1039/c8cp00101d"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Physical Chemistry Chemical Physics, 20(11), 7498-7507"

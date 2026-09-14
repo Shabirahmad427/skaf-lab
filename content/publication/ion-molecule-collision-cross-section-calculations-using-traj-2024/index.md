@@ -8,7 +8,7 @@ authors:
 - Munir S. Skaf
 - G Araujo
 date: "2024-01-01"
-doi: ""
+doi: "10.1016/j.jpdc.2024.104902"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Parallel and Distributed Computing, 191, 104902"

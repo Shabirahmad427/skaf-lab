@@ -4,7 +4,7 @@ authors:
 - Munir S. Skaf
 - G Stell
 date: "1992-01-01"
-doi: ""
+doi: "10.1103/physreva.46.r3020"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Physical Review A, 46(6), R3020"

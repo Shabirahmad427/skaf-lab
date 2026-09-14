@@ -8,7 +8,7 @@ authors:
 - S Thomopoulos
 - et al.
 date: "2025-01-01"
-doi: ""
+doi: "10.1021/acsnano.5c04697"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "ACS Nano, 19(35), 31350-31362"

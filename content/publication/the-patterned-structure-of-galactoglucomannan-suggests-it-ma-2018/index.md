@@ -10,7 +10,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2018-01-01"
-doi: ""
+doi: "10.1104/pp.18.00709"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Plant Physiology, 178(3), 1011-1026"

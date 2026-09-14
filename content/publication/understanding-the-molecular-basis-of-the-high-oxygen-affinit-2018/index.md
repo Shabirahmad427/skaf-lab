@@ -10,7 +10,7 @@ authors:
 - FF Costa
 - et al.
 date: "2018-01-01"
-doi: ""
+doi: "10.1016/j.abb.2017.11.010"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Archives of Biochemistry and Biophysics, 637, 73-78"

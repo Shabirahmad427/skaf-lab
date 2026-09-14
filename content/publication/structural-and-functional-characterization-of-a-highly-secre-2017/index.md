@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2017-01-01"
-doi: ""
+doi: "10.1016/j.bbapap.2017.09.001"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Biochimica et Biophysica Acta - Proteins and Proteomics, 1865(12), 1758-1769"

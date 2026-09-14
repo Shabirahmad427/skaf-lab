@@ -8,7 +8,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2023-01-01"
-doi: ""
+doi: "10.1021/acs.inorgchem.2c03984"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Inorganic Chemistry, 62(5), 2244-2256"

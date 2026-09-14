@@ -6,7 +6,7 @@ authors:
 - Munir S. Skaf
 - PJ Rossky
 date: "2001-01-01"
-doi: ""
+doi: "10.1063/1.1343871"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 114(8), 3598-3611"

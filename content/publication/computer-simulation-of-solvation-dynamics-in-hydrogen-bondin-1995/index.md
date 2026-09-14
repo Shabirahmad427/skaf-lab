@@ -4,7 +4,7 @@ authors:
 - Munir S. Skaf
 - BM Ladanyi
 date: "1995-01-01"
-doi: ""
+doi: "10.1016/0166-1280(94)03999-2"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Molecular Structure: THEOCHEM, 335(1-3), 181-188"

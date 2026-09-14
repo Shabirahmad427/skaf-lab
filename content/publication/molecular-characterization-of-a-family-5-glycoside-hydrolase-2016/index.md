@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2016-01-01"
-doi: ""
+doi: "10.1038/srep23473"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Scientific Reports, 6(1), 23473"

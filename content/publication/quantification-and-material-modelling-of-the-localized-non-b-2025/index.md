@@ -9,7 +9,7 @@ authors:
 - T Mendel
 - et al.
 date: "2025-01-01"
-doi: ""
+doi: "10.1080/10255842.2025.2575262"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Computer Methods in Biomechanics and Biomedical Engineering"

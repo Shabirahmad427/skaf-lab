@@ -10,7 +10,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2011-01-01"
-doi: ""
+doi: "10.1016/j.jmb.2011.04.014"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Molecular Biology, 412(5), 882-893"

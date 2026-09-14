@@ -4,7 +4,7 @@ authors:
 - BM Ladanyi
 - Munir S. Skaf
 date: "1993-01-01"
-doi: ""
+doi: "10.1146/annurev.physchem.44.1.335"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Annual Review of Physical Chemistry, 44(1), 335-368"

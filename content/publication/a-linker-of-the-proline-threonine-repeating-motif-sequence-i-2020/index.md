@@ -5,7 +5,7 @@ authors:
 - I Polikarpov
 - IM Stankovic
 date: "2020-01-01"
-doi: ""
+doi: "10.1007/s00894-020-04434-0"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Molecular Modeling, 26(7), 178"

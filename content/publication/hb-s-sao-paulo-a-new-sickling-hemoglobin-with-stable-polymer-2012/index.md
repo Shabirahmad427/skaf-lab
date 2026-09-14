@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2012-01-01"
-doi: ""
+doi: "10.1016/j.abb.2012.01.001"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Archives of Biochemistry and Biophysics, 519(1), 23-31"

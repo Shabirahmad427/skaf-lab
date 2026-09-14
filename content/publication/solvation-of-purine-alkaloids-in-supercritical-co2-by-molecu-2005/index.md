@@ -4,7 +4,7 @@ authors:
 - FW Favero
 - Munir S. Skaf
 date: "2005-01-01"
-doi: ""
+doi: "10.1016/j.supflu.2004.11.020"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Supercritical Fluids, 34(2), 237-241"

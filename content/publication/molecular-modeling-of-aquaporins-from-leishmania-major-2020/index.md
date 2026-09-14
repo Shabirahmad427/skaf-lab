@@ -5,7 +5,7 @@ authors:
 - Artur Hermano Sampaio Dias
 - Munir S. Skaf
 date: "2020-01-01"
-doi: ""
+doi: "10.1021/acs.jpcb.0c03550"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 124(28), 5825-5836"

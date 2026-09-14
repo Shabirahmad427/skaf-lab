@@ -7,7 +7,7 @@ authors:
 - Munir S. Skaf
 - I Polikarpov
 date: "2008-01-01"
-doi: ""
+doi: "10.1210/me.2007-0501"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Molecular Endocrinology, 22(7), 1565-1578"

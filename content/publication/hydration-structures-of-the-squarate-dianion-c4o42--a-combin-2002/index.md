@@ -5,7 +5,7 @@ authors:
 - PAM Vazquez
 - Munir S. Skaf
 date: "2002-01-01"
-doi: ""
+doi: "10.1016/s0166-1280(01)00608-x"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Molecular Structure: THEOCHEM, 580(1-3), 137-145"

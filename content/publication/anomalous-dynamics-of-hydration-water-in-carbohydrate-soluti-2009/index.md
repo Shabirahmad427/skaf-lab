@@ -6,7 +6,7 @@ authors:
 - Munir S. Skaf
 - MD Elola
 date: "2009-01-01"
-doi: ""
+doi: "10.1021/jp904019c"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 113(39), 12999-13006"

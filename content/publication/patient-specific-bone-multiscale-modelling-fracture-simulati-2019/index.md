@@ -10,7 +10,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2019-01-01"
-doi: ""
+doi: "10.3390/ma13010106"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Materials, 13(1), 106"

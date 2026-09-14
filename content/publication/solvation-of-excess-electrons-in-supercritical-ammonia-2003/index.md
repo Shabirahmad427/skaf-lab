@@ -5,7 +5,7 @@ authors:
 - Munir S. Skaf
 - D Laria
 date: "2003-01-01"
-doi: ""
+doi: "10.1063/1.1601215"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 119(12), 6044-6052"

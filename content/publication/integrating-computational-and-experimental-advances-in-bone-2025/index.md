@@ -9,7 +9,7 @@ authors:
 - NM Harrison
 - et al.
 date: "2025-01-01"
-doi: ""
+doi: "10.1016/j.pmatsci.2025.101474"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Progress in Materials Science, 153, 101474"

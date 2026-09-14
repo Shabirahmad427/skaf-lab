@@ -10,7 +10,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2016-01-01"
-doi: ""
+doi: "10.1002/bit.26036"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Biotechnology and Bioengineering, 113(12), 2577-2586"

@@ -4,7 +4,7 @@ authors:
 - SM Vechi
 - Munir S. Skaf
 date: "2005-01-01"
-doi: ""
+doi: "10.1063/1.2085052"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 123(15)"

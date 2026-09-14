@@ -5,7 +5,7 @@ authors:
 - Rodrigo Leandro Silveira
 - Munir S. Skaf
 date: "2021-01-01"
-doi: ""
+doi: "10.1021/acs.jcim.0c01380"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Chemical Information and Modeling, 61(4), 1902-1912"

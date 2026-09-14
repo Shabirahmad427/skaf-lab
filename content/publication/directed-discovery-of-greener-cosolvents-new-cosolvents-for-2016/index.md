@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2016-01-01"
-doi: ""
+doi: "10.1021/acssuschemeng.6b02020"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "ACS Sustainable Chemistry & Engineering, 4(11), 6200-6207"

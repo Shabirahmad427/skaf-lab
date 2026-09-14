@@ -7,7 +7,7 @@ authors:
 - P Sollero
 - Munir S. Skaf
 date: "2022-01-01"
-doi: ""
+doi: "10.1021/acsbiomaterials.2c00728"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "ACS Biomaterials Science & Engineering, 9(1), 230-245"

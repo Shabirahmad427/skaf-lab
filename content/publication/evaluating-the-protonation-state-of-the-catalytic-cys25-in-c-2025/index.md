@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2025-01-01"
-doi: ""
+doi: "10.1002/pro.70283"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Protein Science, 34(10), e70283"

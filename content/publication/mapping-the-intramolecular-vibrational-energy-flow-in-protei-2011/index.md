@@ -7,7 +7,7 @@ authors:
 - I Polikarpov
 - Munir S. Skaf
 date: "2011-01-01"
-doi: ""
+doi: "10.1021/jz200830g"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry Letters, 2(16), 2073-2078"

@@ -4,7 +4,7 @@ authors:
 - SM Vechi
 - Munir S. Skaf
 date: "2002-01-01"
-doi: ""
+doi: "10.1590/s0103-50532002000500007"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of the Brazilian Chemical Society, 13(5), 583-591"

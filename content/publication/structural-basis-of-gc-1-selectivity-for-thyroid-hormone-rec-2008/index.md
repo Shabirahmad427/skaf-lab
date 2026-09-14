@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2008-01-01"
-doi: ""
+doi: "10.1186/1472-6807-8-8"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "BMC Structural Biology, 8(1), 8"

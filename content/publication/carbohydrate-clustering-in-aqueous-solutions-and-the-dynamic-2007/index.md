@@ -4,7 +4,7 @@ authors:
 - MT Sonoda
 - Munir S. Skaf
 date: "2007-01-01"
-doi: ""
+doi: "10.1021/jp0749120"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 111(41), 11948-11956"

@@ -5,7 +5,7 @@ authors:
 - ON Oliveira
 - Munir S. Skaf
 date: "2006-01-01"
-doi: ""
+doi: "10.1021/jp056678o"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 110(17), 8804-8814"

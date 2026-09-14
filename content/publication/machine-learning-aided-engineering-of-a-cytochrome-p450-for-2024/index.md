@@ -6,7 +6,7 @@ authors:
 - Munir S. Skaf
 - SP De Visser
 date: "2024-01-01"
-doi: ""
+doi: "10.1039/d4cp01282h"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Physical Chemistry Chemical Physics, 26(25), 17577-17587"

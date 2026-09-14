@@ -7,7 +7,7 @@ authors:
 - Munir S. Skaf
 - J Lameira
 date: "2024-01-01"
-doi: ""
+doi: "10.1021/acs.jpcb.4c02207"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 128(31), 7486-7499"

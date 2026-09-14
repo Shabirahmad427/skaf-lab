@@ -10,7 +10,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2021-01-01"
-doi: ""
+doi: "10.1016/j.jbc.2021.100385"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Biological Chemistry, 296, 100385"

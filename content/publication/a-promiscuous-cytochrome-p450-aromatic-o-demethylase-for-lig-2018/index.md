@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2018-01-01"
-doi: ""
+doi: "10.1038/s41467-018-04878-2"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Nature Communications, 9(1), 2487"

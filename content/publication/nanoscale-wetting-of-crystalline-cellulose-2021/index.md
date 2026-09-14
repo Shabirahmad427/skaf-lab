@@ -8,7 +8,7 @@ authors:
 - M Sorieul
 - Munir S. Skaf
 date: "2021-01-01"
-doi: ""
+doi: "10.1021/acs.biomac.1c00801"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Biomacromolecules, 22(10), 4251-4261"

@@ -7,7 +7,7 @@ authors:
 - L Martinez
 - Munir S. Skaf
 date: "2011-01-01"
-doi: ""
+doi: "10.1002/qua.22638"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "International Journal of Quantum Chemistry, 111(7-8), 1346-1354"

@@ -7,7 +7,7 @@ authors:
 - Munir S. Skaf
 - MJ Buehler
 date: "2024-01-01"
-doi: ""
+doi: "10.1039/d3ma00799e"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Materials Advances, 5(5), 1991-1997"

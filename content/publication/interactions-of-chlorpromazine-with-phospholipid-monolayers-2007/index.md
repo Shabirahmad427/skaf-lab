@@ -5,7 +5,7 @@ authors:
 - ON Oliveira Jr
 - Munir S. Skaf
 date: "2007-01-01"
-doi: ""
+doi: "10.1016/j.bpc.2006.10.010"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Biophysical Chemistry, 125(2-3), 425-434"

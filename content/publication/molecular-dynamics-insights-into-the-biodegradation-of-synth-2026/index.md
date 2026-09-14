@@ -7,7 +7,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2026-01-01"
-doi: ""
+doi: "10.1021/acs.jcim.5c03051"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Chemical Information and Modeling, 66(7), 4085-4100"

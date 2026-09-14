@@ -8,7 +8,7 @@ authors:
 - M Pickholz
 - E de Paula
 date: "2020-01-01"
-doi: ""
+doi: "10.1016/j.molstruc.2020.128854"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Molecular Structure, 1222, 128854"

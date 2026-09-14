@@ -4,7 +4,7 @@ authors:
 - IA Borin
 - Munir S. Skaf
 date: "1998-01-01"
-doi: ""
+doi: "10.1016/s0009-2614(98)01025-2"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Chemical Physics Letters, 296(1-2), 125-130"

@@ -4,7 +4,7 @@ authors:
 - Munir S. Skaf
 - BM Ladanyi
 date: "1996-01-01"
-doi: ""
+doi: "10.1021/jp961634o"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry, 100(46), 18258-18268"

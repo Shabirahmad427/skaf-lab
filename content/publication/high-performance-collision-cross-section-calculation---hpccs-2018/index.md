@@ -7,7 +7,7 @@ authors:
 - G Araujo
 - Munir S. Skaf
 date: "2018-01-01"
-doi: ""
+doi: "10.1002/jcc.25199"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Journal of Computational Chemistry, 39(21), 1675-1681"

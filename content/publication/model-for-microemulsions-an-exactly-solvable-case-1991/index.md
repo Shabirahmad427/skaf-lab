@@ -6,7 +6,7 @@ authors:
 - Munir S. Skaf
 - G Stell
 date: "1991-01-01"
-doi: ""
+doi: "10.1063/1.461669"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 95(7), 5305-5312"

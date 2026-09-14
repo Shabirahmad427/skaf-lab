@@ -6,7 +6,7 @@ authors:
 - Munir S. Skaf
 - MD Elola
 date: "2008-01-01"
-doi: ""
+doi: "10.1063/1.3042275"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 129(24)"

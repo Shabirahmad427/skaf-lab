@@ -5,7 +5,7 @@ authors:
 - MCC Ribeiro
 - Munir S. Skaf
 date: "2014-01-01"
-doi: ""
+doi: "10.1063/1.4869143"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Chemical Physics, 140(14)"

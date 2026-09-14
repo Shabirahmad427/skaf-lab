@@ -9,7 +9,7 @@ authors:
 - Munir S. Skaf
 - et al.
 date: "2010-01-01"
-doi: ""
+doi: "10.1021/jp911554p"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Physical Chemistry B, 114(3), 1529-1540"

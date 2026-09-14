@@ -6,7 +6,7 @@ authors:
 - A Kovalenko
 - Munir S. Skaf
 date: "2016-01-01"
-doi: ""
+doi: "10.1021/acs.biomac.6b00603"
 publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "Biomacromolecules, 17(8), 2582-2590"
