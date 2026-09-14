@@ -1,80 +1,108 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-01-01
 type: landing
 
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+      title: Skaf Lab
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+        **Computational Biophysical Chemistry**  
+        Institute of Chemistry · University of Campinas (Unicamp) · Brazil
+      cta:
+        label: Meet the Team
+        url: people
+      cta_alt:
+        label: Our Research
+        url: '#projects'
     design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
       background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        color: '#1565C0'
+        text_color_light: true
+
+  - block: markdown
+    id: about
+    content:
+      title: About the Group
+      text: |
+        We are a computational chemistry research group at the **Institute of Chemistry (IQ)**,
+        University of Campinas (Unicamp), Brazil. Our work focuses on understanding molecular-level
+        phenomena in biological and chemical systems through **molecular dynamics simulations**
+        and theoretical methods.
+
+        Our research spans enzymes, proteins, nanomaterials, cellulose, and liquids — with the
+        goal of connecting molecular structure to macroscopic properties and biological function.
+
+        We are part of the [CEPID/FAPESP Center for Computing in Engineering and Sciences](https://bv.fapesp.br/en/pesquisador/2269/munir-salomao-skaf).
+    design:
+      columns: '1'
+
+  - block: collection
+    id: projects
+    content:
+      title: Research Lines
+      subtitle: ''
+      text: ''
+      filters:
+        folders:
+          - project
+    design:
+      columns: '2'
+      view: card
 
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
-      count: 5
+      title: Recent Publications
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        featured_only: false
+      count: 5
     design:
+      columns: '2'
       view: citation
-      columns: '1'
 
-  - block: markdown
+  - block: collection
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      title: Software & Tools
+      filters:
+        folders:
+          - software
     design:
-      columns: '1'
+      columns: '2'
+      view: card
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle: ''
+      text: ''
+      email: skaf@iqm.unicamp.br
+      address:
+        street: Instituto de Química, Rua Josué de Castro, s/n
+        city: Campinas
+        region: SP
+        postcode: '13083-861'
+        country: Brazil
+        country_code: BR
+      coordinates:
+        latitude: '-22.8185'
+        longitude: '-47.0664'
+      directions: Instituto de Química (IQ) - Unicamp Campus
+      office_hours:
+        - 'Monday–Friday, 09:00–18:00'
+      contact_links:
+        - icon: graduation-cap
+          icon_pack: fas
+          name: Google Scholar
+          link: 'https://scholar.google.com/citations?user=yyRa2dcAAAAJ'
+        - icon: github
+          icon_pack: fab
+          name: GitHub (cepid-cces)
+          link: 'https://github.com/cepid-cces'
+    design:
+      columns: '2'
 ---

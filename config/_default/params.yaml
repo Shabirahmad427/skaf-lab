@@ -1,118 +1,102 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# -----------
+
+# Website type
+site_type: Group
+
+# Local time zone
+time_zone: America/Sao_Paulo
 
 # Appearance
-
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
   font_size: L
 
 # SEO
-
 marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
+    org_name: 'Skaf Lab - IQ Unicamp'
+    description: 'Computational Biophysical Chemistry Group at the Institute of Chemistry, University of Campinas (Unicamp), Brazil.'
+    twitter: ''
 
-# Site header
+# Contact
+contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: Email
+    link: 'mailto:skaf@iqm.unicamp.br'
+  - icon: graduation-cap
+    icon_pack: fas
+    name: Google Scholar
+    link: 'https://scholar.google.com/citations?user=yyRa2dcAAAAJ'
+  - icon: researchgate
+    icon_pack: fab
+    name: ResearchGate
+    link: 'https://www.researchgate.net/profile/Munir-Skaf'
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: 'https://github.com/cepid-cces'
 
-header:
-  navbar:
-    enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
+# Address
+address:
+  street: Rua Josué de Castro, s/n - Cidade Universitária
+  city: Campinas
+  region: SP
+  postcode: '13083-861'
+  country: Brazil
+  country_code: BR
 
-# Site footer
+# Coordinates (for map)
+coordinates:
+  latitude: '-22.8185'
+  longitude: '-47.0664'
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# Directions
+directions: Instituto de Química (IQ), Unicamp - Campinas, SP, Brazil
 
-# Localization
+office_hours:
+  - 'Monday–Friday, 09:00–18:00'
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+# Map
+map:
+  provider: google
+  api_key: ''
+  zoom: 15
 
-# Site features
+# Social sharing
+sharing:
+  twitter: true
 
-features:
-  syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  decap_cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Citation style
-
+# Publication
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Search
+search:
+  provider: wowchemy
+
+# Comments
+comments:
+  provider: ''
+
+# Content Management System
+cms:
+  branch: main
+
+# Avatar
+avatar:
+  gravatar: false
+  shape: circle
+
+# Footer
+footer:
+  copyright:
+    notice: '© {year} Skaf Lab, IQ Unicamp. Powered by [Hugo Blox](https://hugoblox.com).'
+    license:
+      enable: false
