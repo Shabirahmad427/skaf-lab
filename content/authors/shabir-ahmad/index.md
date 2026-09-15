@@ -38,6 +38,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:s238374@dac.unicamp.br'
+  - icon: graduation-cap
+    icon_pack: fas
+    link: 'https://bv.fapesp.br/en/bolsas/204618/molecular-modeling-of-enzymes-active-on-lignocellulosic-substrates/'
 
 highlight_name: false
 
