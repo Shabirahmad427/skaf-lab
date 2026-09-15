@@ -26,7 +26,13 @@ education:
     - course: BSc in Chemistry
       institution: State University of Northern Rio de Janeiro Darcy Ribeiro (UENF), Brazil
       year: 2019
-social: []
+social:
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0002-5314-5823'
+  - icon: lattes
+    icon_pack: ai
+    link: 'http://lattes.cnpq.br/6640029416808523'
 highlight_name: false
 user_groups:
   - PhD Students
@@ -34,5 +40,13 @@ user_groups:
 Carlos Guilherme Tissi Batista is a PhD student in physical chemistry in the Skaf Lab at the Institute of Chemistry, Unicamp. His research uses molecular dynamics simulations to study intermolecular interactions and the properties of lignocellulosic materials, including plant cell walls and other carbohydrate-based systems.
 
 His research also includes multiscale molecular modeling of bacterial biofilms, through a FAPESP-supported research project abroad with Prof. Marrink's group at the University of Groningen.
+
+### Doctoral research
+
+His FAPESP project, *Computational studies of plant cell walls and other carbohydrate-based systems*, investigates how cellulose, lignin, hemicellulose, and hydration influence the mechanical properties of plant cell walls. It combines models of hardwood secondary cell walls based on experimental data with molecular dynamics simulations of tensile and compression tests.
+
+The project is supervised by Prof. Munir Skaf and supported by FAPESP grant **2025/11743-1**, with a fellowship period from August 2025 to July 2026.
+
+[FAPESP doctoral research project](https://bv.fapesp.br/pt/bolsas/229417/estudos-computacionais-da-parede-celular-vegetal-e-outros-sistemas-a-base-de-carboidratos/)
 
 [FAPESP researcher profile](https://bv.fapesp.br/pt/pesquisador/741510/carlos-guilherme-tissi-batista/)
