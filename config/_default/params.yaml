@@ -14,6 +14,11 @@ appearance:
   font: skaflab
   font_size: L
 
+# Extensions
+extensions:
+  academicons:
+    enable: true
+
 # SEO
 marketing:
   seo:
