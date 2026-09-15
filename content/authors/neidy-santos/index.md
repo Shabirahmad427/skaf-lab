@@ -36,7 +36,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:TODO@unicamp.br'
+    link: 'mailto:n291095@dac.unicamp.br'
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0002-0177-8004'
+  - icon: lattes
+    icon_pack: ai
+    link: 'http://lattes.cnpq.br/6153003190959250'
+  - icon: graduation-cap
+    icon_pack: fas
+    link: 'https://bv.fapesp.br/en/pesquisador/737744/neidy-samara-sousa-dos-santos/'
+  - icon: researcherid
+    icon_pack: ai
+    link: 'https://www.webofscience.com/wos/author/record/IXX-1694-2023'
+  - icon: scopus
+    icon_pack: ai
+    link: 'https://www.scopus.com/authid/detail.uri?authorId=58188753500'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/neidy-ss-santos'
 
 highlight_name: false
 
