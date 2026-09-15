@@ -5,19 +5,34 @@ title: Carlos Guilherme Tissi Batista
 first_name: Carlos
 last_name: Batista
 superuser: false
-role: Researcher
+role: PhD Student
 organizations:
   - name: Institute of Chemistry, Unicamp
     url: 'https://www.iqm.unicamp.br'
-bio: Co-author with Prof. Munir Skaf on the 2025 study of softwood secondary cell wall mechanics via atomistic simulations. Exact degree level and current status to be confirmed.
+bio: PhD student studying intermolecular interactions and properties of lignocellulosic materials using molecular dynamics simulations.
 interests:
   - Molecular Dynamics Simulations
   - Cellulose and Plant Cell Walls
+  - Multiscale Modeling
+  - Bacterial Biofilms
 education:
-  courses: []
+  courses:
+    - course: PhD in Physical Chemistry (in progress)
+      institution: Unicamp, Brazil
+      year: ''
+    - course: MSc in Natural Sciences
+      institution: State University of Northern Rio de Janeiro Darcy Ribeiro (UENF), Brazil
+      year: 2022
+    - course: BSc in Chemistry
+      institution: State University of Northern Rio de Janeiro Darcy Ribeiro (UENF), Brazil
+      year: 2019
 social: []
 highlight_name: false
 user_groups:
   - PhD Students
 ---
-Carlos co-authored "Unraveling the Mechanical Behavior of Softwood Secondary Cell Walls through Atomistic Simulations" (Biomacromolecules, 2025) with Prof. Munir Skaf. Degree level, dates, and role in the group are placeholders pending confirmation.
+Carlos Guilherme Tissi Batista is a PhD student in physical chemistry in the Skaf Lab at the Institute of Chemistry, Unicamp. His research uses molecular dynamics simulations to study intermolecular interactions and the properties of lignocellulosic materials, including plant cell walls and other carbohydrate-based systems.
+
+His research also includes multiscale molecular modeling of bacterial biofilms, through a FAPESP-supported research project abroad with Prof. Marrink's group at the University of Groningen.
+
+[FAPESP researcher profile](https://bv.fapesp.br/pt/pesquisador/741510/carlos-guilherme-tissi-batista/)
