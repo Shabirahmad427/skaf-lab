@@ -27,6 +27,9 @@ education:
       institution: State University of Northern Rio de Janeiro Darcy Ribeiro (UENF), Brazil
       year: 2019
 social:
+  - icon: graduation-cap
+    icon_pack: fas
+    link: 'https://bv.fapesp.br/pt/pesquisador/741510/carlos-guilherme-tissi-batista/'
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0002-5314-5823'

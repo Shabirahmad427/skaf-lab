@@ -38,7 +38,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:TODO@unicamp.br'
+    link: 'mailto:cr.henriquecosta@gmail.com'
+  - icon: graduation-cap
+    icon_pack: fas
+    link: 'https://bv.fapesp.br/pt/pesquisador/719255/clauber-henrique-souza-da-costa/'
 
 highlight_name: false
 
