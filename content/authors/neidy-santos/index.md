@@ -55,6 +55,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/neidy-ss-santos'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/neidysss'
 
 highlight_name: false
 

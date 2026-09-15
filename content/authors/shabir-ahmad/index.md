@@ -41,6 +41,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: 'https://bv.fapesp.br/en/bolsas/204618/molecular-modeling-of-enzymes-active-on-lignocellulosic-substrates/'
+  - icon: globe
+    icon_pack: fas
+    link: 'https://shabirahmad427.github.io/'
 
 highlight_name: false
 
