@@ -25,7 +25,7 @@ interests:
 education:
   courses:
     - course: PhD in Chemistry (2022 – present)
-      institution: Unicamp, Brazil
+      institution: University of Campinas (UNICAMP), Brazil
       year: 2022
     - course: MSc in Cell and Molecular Biology
       institution: Federal University of Rio Grande do Sul (UFRGS), Brazil
