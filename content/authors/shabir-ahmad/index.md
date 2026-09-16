@@ -28,7 +28,7 @@ education:
       institution: Unicamp, Brazil
       year: 2022
     - course: MSc in Cell and Molecular Biology
-      institution: Abdul Wali Khan University Mardan (AWKUM), Pakistan
+      institution: Federal University of Rio Grande do Sul (UFRGS), Brazil
       year: ''
     - course: BSc in Zoology
       institution: Abdul Wali Khan University Mardan (AWKUM), Pakistan
@@ -51,4 +51,4 @@ user_groups:
   - PhD Students
 ---
 
-I am a PhD student in the Skaf Lab at the Institute of Chemistry, Unicamp. My research focuses on the computational study of **lignocellulosic biomass** degradation using molecular dynamics simulations, with the goal of understanding enzyme–substrate interactions at the atomic level to support bioenergy applications.
+Shabir Ahmad is a PhD student in the Skaf Lab at the Institute of Chemistry, Unicamp. His research focuses on the computational study of **lignocellulosic biomass** degradation using molecular dynamics simulations, with the goal of understanding enzyme–substrate interactions at the atomic level to support bioenergy applications.
